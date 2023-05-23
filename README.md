@@ -8,5 +8,15 @@
 
 ### El objetivo general es desarrollar herramientas informáticas y kits de detección de marcadores moleculares que permitan predecir la respuesta a la terapia y detectar tempranamente los tumores en pacientes neurooncológicos. Se emplearán muestras de resección quirúrgica, LCR y suero de los pacientes neurooncológicos del Hospital de Alta Complejidad del Bicentenario de Esteban Echeverría, para determinar el peptidoma por MALDI-TOF-MS comparando los espectros de pacientes sensibles y resistentes con el fin de desarrollar aplicaciones que, mediante machine-learning, predigan la respuesta del paciente a la terapia. Los picos diferenciales hallados entre pacientes respondedores y no a la terapia se asignarán bioinformáticamente y se confirmarán por ELISA con el fin de hallar marcadores moleculares de detección temprana de falla terapéutica
 
+## Participantes 
+
+Dra. Sivina Lompardia
+
+Dr. Matías Pibuel
+
+Dr. Martín Manuel Ledesma, [ResearchGate](https://www.researchgate.net/profile/Martin-Ledesma)
+
+Bioq. Daniela Poodts
+
 
 
